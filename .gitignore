@@ -1,6 +1,7 @@
 node_modules
 dist
 .vscode
+.env
 tsconfig.sample.json
 package-lock.json
 npm-debug.log
