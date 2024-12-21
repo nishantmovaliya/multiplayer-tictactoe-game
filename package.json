@@ -1,0 +1,17 @@
+{
+  "name": "multiplayer-tictactoe-game",
+  "version": "1.0.0",
+  "description": "This is multiplayer tic-tac-toe game",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "node dist/index.js",
+    "start:dev" : "nodemon src/index.ts"
+  },
+  "keywords": [
+    "tic-tac-toe",
+    "multiplayer",
+    "socket.io"
+  ],
+  "author": "Nishant Movaliya",
+  "license": "ISC"
+}
